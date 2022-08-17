@@ -55,7 +55,7 @@ And, here you create a file called:
 package.json  
 ...inside of package.json goes the following code...  
 
->>{
+>>{  
 >> "name":"my-project",  
 >> "source":"src/index.html",  
 >> "scripts":{  
