@@ -34,9 +34,24 @@ that runs inside of the web browser on:
 
 -----
 
-The instructions are detailed...so, you have to read them very carefully...in order to go follow the tutorial along.  
-But, basically, you are meant to create a CLI application...; this means you should already have Node installed...which can be downloaded for FREE from:   
+The instructions are detailed...so, you have to read through them very carefully...in order to go follow the tutorial along.  
+But, basically, you are meant to create a CLI/Client side Interface application...; this means you should already have Node installed...which can be downloaded for FREE from:   
 - https://nodejs.org  
+...next, create a folder...call it: 
+my-project    
+...and, also, create a sub-folder inside of: [my-project], called:  
+src   
+...inside of the: [src] folder...you create 3 x test web page files, as follows:  
+
+- index.html  
+- styles.css
+- app.js
+
+...and, then, you open up a Windows Command Prompt...and, install the Parcel application...  
+
+>>C:\npm install --save-dev Parcel  
+
+
 
 
 
