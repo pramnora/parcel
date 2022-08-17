@@ -110,7 +110,7 @@ http://localhost:1234
 
 -----
 
-##NOTES
+## NOTES
 
 **NOTE(1)**: My current computer/operating system is: Desktop PC/Windows 10 Pro...; so, I'm none too sure if these same instructions would work for any other computing platforms/operating systems.  
 
