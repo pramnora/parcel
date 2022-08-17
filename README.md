@@ -48,6 +48,8 @@ my-project
 
 ...this loads in the Parcel packages onto your computer system.     
 
+-----
+
 Inside of the [my-project] folder...create a sub-folder called:     
 src   
 ...inside of the: [src] folder...you create 3 x test web page files, as follows:  
@@ -57,6 +59,16 @@ src
 - app.js  
 
 ...the main [index.html] web page file...links to both external files: [styles.css]/[app.js].      
+
+-----
+
+**NOTE**: The web page codes: index.html/styles.html/app.js...are all found at:   
+
+- https://parceljs.org/getting-started/webapp/    
+
+...so, you don't need to do anything; just use 'copy and paste'; then, save each file with it's separate name/extension.     
+
+-----
 
 Now, go up a folder...back into: [my-project] which contains all the rest of your files.  
 
@@ -80,9 +92,17 @@ Next,  open up a Windows Command Prompt inside of the [my-project] main folder..
 
 >> npm run build  
 
-...this should build a new folder inside [my-project] main folder called:  
+...this should create a new sub-folder to go inside of your main folder: [my-project], which is called:  
 dist
 
+Open up a Windows Command Prompt inside of the [my-project] main folder...and, type in the following command:
+
+>> npx parcel src/index.html  
+...the response should say...  
+>> Server running at: http://localhost:1234    
+...and, when you open up a new web browser window...and, type into the address bar:  
+http://localhost:1234    
+...you should see the web page up and working.  
 
 
 
