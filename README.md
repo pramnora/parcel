@@ -118,7 +118,7 @@ http://localhost:1234
 
 - https://parceljs.org/getting-started/webapp/    
 
-However, the instructions here...are just to get you up and started. -Enjoy! ;-)
+However, the instructions here...are merely just to get you up and *started*. -Enjoy! ;-)
 
 
 
