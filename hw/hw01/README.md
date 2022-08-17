@@ -8,8 +8,11 @@ I was at...
 >> We use the same configuration as Parcel to bundle this sandbox, you can find more
   info about Parcel 
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.  
+
 ...here, meaning...    
+
 - https://parceljs.org  
+
 ...when I went over there...I read what the introductory web page said...  
 
 >
