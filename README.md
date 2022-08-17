@@ -45,9 +45,30 @@ src
 
 - index.html  
 - styles.css
-- app.js
+- app.js  
 
-...and, then, you open up a Windows Command Prompt...and, install the Parcel application...  
+...the main [index.html] web page file...links to both external files: [styles.css]/[app.js].      
+
+Now, go up a folder...back into: [my-project] which contains all the rest of your files.  
+
+And, here you create a file called:    
+package.json  
+...inside of package.json goes the following code...  
+
+>>{
+>> "name":"my-project",
+>> "source":"src/index.html",
+>> "scripts":{
+>>  "start":"parcel",
+>>  "build":"parcel build"
+>> },
+>> "devDependencies":{
+>>  "parcel":"latest"
+>> }
+>>}  
+
+
+ you open up a Windows Command Prompt...and, install the Parcel application...  
 
 >>C:\npm install --save-dev Parcel  
 
