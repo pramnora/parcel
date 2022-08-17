@@ -56,16 +56,16 @@ package.json
 ...inside of package.json goes the following code...  
 
 >>{
->> "name":"my-project",
->> "source":"src/index.html",
->> "scripts":{
->>  "start":"parcel",
->>  "build":"parcel build"
->> },
->> "devDependencies":{
->>  "parcel":"latest"
->> }
->>}  
+>> "name":"my-project",  
+>> "source":"src/index.html",  
+>> "scripts":{  
+>>  "start":"parcel",  
+>>  "build":"parcel build"  
+>> },  
+>> "devDependencies":{  
+>>  "parcel":"latest"  
+>> }  
+>>}    
 
 
  you open up a Windows Command Prompt...and, install the Parcel application...  
