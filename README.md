@@ -37,7 +37,7 @@ that runs inside of the web browser on:
 The instructions are detailed...so, you have to read through them very carefully...in order to go follow the tutorial along.  
 But, basically, you are meant to create a CLI/Client side Interface application...; this means you should already have Node installed...which can be downloaded for FREE from:   
 - https://nodejs.org  
-...next, create a folder...call it: 
+...next, create a folder...call it:   
 my-project    
 ...and, also, create a sub-folder inside of: [my-project], called:  
 src   
