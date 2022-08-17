@@ -28,6 +28,11 @@ Learn how to set up a new web
 application from scratch with Parcel  
 
 - https://parceljs.org/getting-started/webapp/  
+...there I saw instructions on how to use parcel to build a web page...;    
+that runs inside of the web browser on:  
+- http://localhost/1234  
+
+
 
 
 
