@@ -32,6 +32,14 @@ application from scratch with Parcel
 that runs inside of the web browser on:  
 - http://localhost/1234  
 
+-----
+
+The instructions are detailed...so, you have to read them very carefully...in order to go follow the tutorial along.  
+But, basically, you are meant to create a CLI application...; this means you should already have Node installed...which can be downloaded for FREE from:   
+- https://nodejs.org  
+
+
+
 
 
 
