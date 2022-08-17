@@ -64,7 +64,7 @@ src
 
 - https://parceljs.org/getting-started/webapp/    
 
-...so, you don't need to do anything; just use 'copy and paste'; then, save each file with it's separate name/extension.)-       
+...so, you don't need to type in any codes...; but, instead, just simply use 'copy and paste'...; then, 'save' each file using it's different filename/extension.)-       
 
 -----
 
@@ -96,10 +96,15 @@ dist
 Open up a Windows Command Prompt inside of the [my-project] main folder...and, type in the following command:
 
 >> npx parcel src/index.html  
+>> 
 ...the response should say...  
+
 >> Server running at: http://localhost:1234    
+
 ...and, when you open up a new web browser window...and, type into the address bar:  
+
 http://localhost:1234    
+
 ...you should see the web page up and working.  
 
 
