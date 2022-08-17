@@ -60,13 +60,11 @@ src
 
 ...the main [index.html] web page file...links to both external files: [styles.css]/[app.js].      
 
------
-
-**NOTE**: The web page codes: index.html/styles.html/app.js...are all found at:   
+-(**NOTE**: The web page codes for: index.html/styles.css/app.js...are all found at:   
 
 - https://parceljs.org/getting-started/webapp/    
 
-...so, you don't need to do anything; just use 'copy and paste'; then, save each file with it's separate name/extension.     
+...so, you don't need to do anything; just use 'copy and paste'; then, save each file with it's separate name/extension.)-       
 
 -----
 
