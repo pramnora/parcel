@@ -39,7 +39,13 @@ But, basically, you are meant to create a CLI/Client side Interface application.
 - https://nodejs.org  
 ...next, create a folder...call it:   
 my-project    
-...and, also, create a sub-folder inside of: [my-project], called:  
+...inside of the [my-project] folder...open up a Windows Command Prompt...; and, type in the command:     
+
+>> C:\npm install --save-dev Parcel    
+
+...this loads in the Parcel packages onto your computer system.   
+
+Inside of the [my-project] folder...create a sub-folder inside of: [my-project], called:    
 src   
 ...inside of the: [src] folder...you create 3 x test web page files, as follows:  
 
@@ -67,10 +73,13 @@ package.json
 >> }  
 >>}    
 
+Next,  open up a Windows Command Prompt inside of the [my-project] main folder...and, type in the following command:
 
- you open up a Windows Command Prompt...and, install the Parcel application...  
+>> npm run build  
 
->>C:\npm install --save-dev Parcel  
+...this should build a new folder inside [my-project] main folder called:  
+dist
+
 
 
 
