@@ -91,13 +91,14 @@ Next,  open up a Windows Command Prompt inside of the [my-project] main folder..
 >> npm run build  
 
 ...this should create a new sub-folder to go inside of your main folder: [my-project], which is called:  
-dist
+
+dist  
 
 Open up a Windows Command Prompt inside of the [my-project] main folder...and, type in the following command:
 
 >> npx parcel src/index.html  
->> 
-...the response should say...  
+ 
+...the response should say...   
 
 >> Server running at: http://localhost:1234    
 
