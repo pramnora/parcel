@@ -108,6 +108,17 @@ http://localhost:1234
 
 ...you should see the web page up and working.  
 
+-----
+
+##NOTES
+
+**NOTE(1)**: My current computer/operating system is: Desktop PC/Windows 10 Pro...; so, I'm none too sure if these same instructions would work for any other computing platforms/operating systems.  
+
+**NOTE(2)**: There were many more instructions to go and follow through...; you will see these whenever you return back to what is the main instruction page...    
+
+- https://parceljs.org/getting-started/webapp/    
+
+However, the instructions here...are just to get you up and started. -Enjoy! ;-)
 
 
 
